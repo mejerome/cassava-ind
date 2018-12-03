@@ -7,7 +7,7 @@ import Contact from "./Contact/contact";
 
 const Main = () => (
   <Switch>
-    <Route exact path="/cover" component={Cover} />
+    <Route exact path="/" component={Cover} />
     <Route path="/about" component={About} />
     <Route path="/product" component={Product} />
     <Route path="/contact" component={Contact} />
