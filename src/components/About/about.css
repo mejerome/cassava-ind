@@ -1,0 +1,15 @@
+.about-image {
+  background: linear-gradient(rgba(0, 0, 255, 0.45), rgba(21, 88, 8, 0.45)),
+    url("./cassavafarm.jpg");
+
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.obj-font {
+  font-family: "Cabin", sans-serif;
+  font-weight: 300;
+}

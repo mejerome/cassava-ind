@@ -1,0 +1,11 @@
+#image-1 {
+  background: black url("./entrance.png") center;
+}
+
+#image-2 {
+  background: black url("./bag_machine1.png") center;
+}
+
+#image-3 {
+  background: black url("./bag_machine1.png") left;
+}
